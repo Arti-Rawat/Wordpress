@@ -1,2 +1,2 @@
 # Wordpress
-Elementor
+Elementor Plugin + Disable Gutenberg
